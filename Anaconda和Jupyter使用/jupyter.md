@@ -21,3 +21,6 @@
 
 * 在Anaconda终端安装代码自动补全包
 > conda install pyreadline
+
+### ipynb转为html格式
+> jupyter nbconvert --to html notebook.ipynb
